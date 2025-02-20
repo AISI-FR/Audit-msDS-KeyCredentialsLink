@@ -28,3 +28,18 @@ KeyCredialLink Entries:
    AD    |NGC  |e29e9c73-5861-6178-1d77-20c044e974cb|052CA152567B180F7E596F803AC990FEB5077BB39028B632FCD56BE181677AE3
 ```
 
+
+### ℹ️ Information
+
+Le rapport contient pour chaque objet :
+
+Identité :
+Pour les utilisateurs : UserPrincipalName et DN.
+Pour les ordinateurs : Name et DN.
+
+Entrées KeyCredentialLink :
+Source (ex. AD ou Entra)
+Usage (ex. NGC, FIDO, ou FEK)
+DeviceID
+KeyID
+
