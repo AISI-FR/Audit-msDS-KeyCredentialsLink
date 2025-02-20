@@ -4,5 +4,5 @@ Ce script PowerShell permet d'énumérer les utilisateurs et les ordinateurs d�
 
 L'article détaillant l'utilisation de ce script est consultable ici : !FIXME_URL!
 
-Ce script est grandement inspiré du script de microsoft : https://learn.microsoft.com/fr-fr/troubleshoot/windows-server/support-tools/script-to-view-msds-keycredentiallink-attribute-value
+[Ce script est grandement inspiré d 'un script de microsoft](ttps://learn.microsoft.com/fr-fr/troubleshoot/windows-server/support-tools/script-to-view-msds-keycredentiallink-attribute-value)
 
