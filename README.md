@@ -33,13 +33,13 @@ KeyCredialLink Entries:
 
 Le rapport contient pour chaque objet :  
 
-Identité :  
-Pour les utilisateurs : UserPrincipalName et DN.  
-Pour les ordinateurs : Name et DN.  
+#### Identité :  
+- Pour les utilisateurs : UserPrincipalName et DN.  
+- Pour les ordinateurs : Name et DN.  
 
-Entrées KeyCredentialLink :  
-Source (ex. AD ou Entra)  
-Usage (ex. NGC, FIDO, ou FEK)  
-DeviceID  
-KeyID  
+#### Entrées KeyCredentialLink :  
+- Source (ex. AD ou Entra)  
+- Usage (ex. NGC, FIDO, ou FEK)  
+- DeviceID  
+- KeyID  
 
